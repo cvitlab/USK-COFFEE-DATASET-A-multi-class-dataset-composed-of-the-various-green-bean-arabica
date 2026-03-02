@@ -4,10 +4,10 @@ Coffee is one of the plantation commodities that plays a big role in the world e
 
 We also introduce a novel dataset called USK-Coffee derived from a coffee bean collection that includes 4 classes: peaberry, longberry, defect, and premium. Our purpose is to overcome the unavailability of publicly available variety green beans data for green coffee bean research. This image data will be collected manually by taking pictures through a digital camera and collecting 8,000 images where each class is divided into 2,000 coffe bean images. This dataset can be used for two tasks. First, classification and detection consider peaberry, longberry, and coffee premium in one group and all defect coffee in another group, so it's divided into two classes, normal coffee bean and defect coffee bean. Second, for recognizing each of the 4 types of coffee beans. Our experimental results show that our Deep Learning method for classification and sorting achieves significant improvement on 4 types of coffee beans performance. Based on this, we believe that our dataset is very challenging and opens more opportunities for future work.
 
-You can download the dataset here: https://coffee.comvislab-usk.org/
+More information: https://coffee.comvislab-usk.org/
 
-you can rquest the datset from here: https://forms.gle/4QSchCETdWrWrtfA8
+You can request the dataset from here: https://forms.gle/4QSchCETdWrWrtfA8
 
-citation:
+Citations:
 1. Febriana, A., Muchtar, K., Dawood, R., Lin, CY.,(2022, June). "USK-COFFEE Dataset: A Multi-class Green Arabica Coffee Bean Dataset for Deep Learning​." In 2022 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom). IEEE.
 2. Muchtar, Kahlil, et al. "Edge AI-based detection for defective coffee beans using deep learning and Streamlit framework." IEEE Access (2025).
