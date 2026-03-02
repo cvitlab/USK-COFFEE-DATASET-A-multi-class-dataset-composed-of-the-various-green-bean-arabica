@@ -6,6 +6,7 @@ We also introduce a novel dataset called USK-Coffee derived from a coffee bean c
 
 You can download the dataset here: https://coffee.comvislab-usk.org/
 you can rquest the datset from here: https://forms.gle/4QSchCETdWrWrtfA8
+
 citation:
 1. Febriana, A., Muchtar, K., Dawood, R., Lin, CY.,(2022, June). "USK-COFFEE Dataset: A Multi-class Green Arabica Coffee Bean Dataset for Deep Learning​." In 2022 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom). IEEE.
 2. Muchtar, Kahlil, et al. "Edge AI-based detection for defective coffee beans using deep learning and Streamlit framework." IEEE Access (2025).
